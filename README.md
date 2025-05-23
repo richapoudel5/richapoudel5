@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @rdssblock7
+- 👋 Hi, I’m @Richa Poudel
+- B. Sc Applied mathmatics and statistic
+- Isn't the agenitic AI new revolution?
 - 5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in LLM and data Engineering
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me poudelricha8848@gmail.com
 
 <!---
 richapoudel5/richapoudel5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
