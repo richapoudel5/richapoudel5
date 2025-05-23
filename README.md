@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richa Poudel
-- B. Sc Applied mathmatics and statistic
+- B. Sc Applied Mathmatics and Statistics
 - Isn't the agenitic AI new revolution?
 - 5
 - 👀 I’m interested in LLM and data Engineering
