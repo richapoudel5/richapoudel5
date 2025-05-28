@@ -2,7 +2,7 @@
 - B. Sc Applied Mathmatics and Statistics
 - Isn't the agenitic AI new revolution?
 - 5
-- 👀 I’m interested in LLM and Data Engineering
+- 👀 I’m in LLM and Data Engineering
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Agentic AI.
 - - 📫 How to reach me poudelricha8848@gmail.com
