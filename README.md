@@ -3,8 +3,8 @@
 - Isn't the agenitic AI new revolution?
 - 5
 - 👀 I’m in LLM and Data Engineering
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Agentic AI.
+- 🌱 I’m proficient in  Python 
+- 💞️ I’m looking to collaborate on Agentic AI as my side hobby
 - - 📫 How to reach me poudelricha8848@gmail.com
 
 <!---
